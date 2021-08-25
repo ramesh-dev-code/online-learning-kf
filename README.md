@@ -1,2 +1,2 @@
 # online-learning-kf
-An online-learning algorithm based on adaptive Kalman filter for detecting the early-onset of high-voltage spindles in the local field potentials of parkinsonian rats
+An online-learning algorithm based on adaptive Kalman filter for detecting the early-onset of high-voltage spindles in the local field potentials of parkinsonian rats. Please read my publication ["A Computationally-Efficient, Online-Learning Algorithm for Detecting High-Voltage Spindles in the Parkinsonian Rats"](https://doi.org/10.1007/s10439-020-02680-0) for more information on the algorithm and simulation results.
